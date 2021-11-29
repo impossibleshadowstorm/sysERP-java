@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "226657515656",
+    "firebase_url": "https://syserp-with-flutter-default-rtdb.firebaseio.com",
+    "project_id": "syserp-with-flutter",
+    "storage_bucket": "syserp-with-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226657515656:android:dd5bbfae680a92e097073d",
+        "android_client_info": {
+          "package_name": "com.dsvv.syserp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226657515656-ogqtfgb3bkhhh8eei7ecl62dcek1dbvg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dsvv.syserp",
+            "certificate_hash": "3e58b491d5ea5dab66fd48bafdd76d6abf44af61"
+          }
+        },
+        {
+          "client_id": "226657515656-2hilcsaf92rqt5esdirnos137f99fur9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLRPHEYoIcaL-aPZCfTlhAYKuKGmsg21Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226657515656-2hilcsaf92rqt5esdirnos137f99fur9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
